@@ -45,9 +45,9 @@ export default class App extends Component<Props, State> {
   constructor(props: Props | Readonly<Props>) {
     super(props)
     this.state = {
-      appId: '9c9206460eb940dab9a2116ea8b29f91',
+      appId: 'XXXXXXXXXXXXXXXXXXXXXXXXXX',
       channelName: 'looper',
-      token: '0069c9206460eb940dab9a2116ea8b29f91IADEyIh48Wlh4jLehU9VciTBiCKCWg4Ohyrh8Yc1vUdDxOmOo0QAAAAAEAAqKWnBvL4mYgEAAQC7viZi',
+      token: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX',
       joinSucceed: false,
       peerIds: [],
     }
